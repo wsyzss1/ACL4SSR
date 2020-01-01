@@ -6653,6 +6653,7 @@
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.cc$
 (^|\.)cloudcone\.com$
+(^|\.)ip-api\.com$
 (^|\.)cloudfront\.net$
 (^|\.)dmm\.co\.jp$
 (^|\.)githubusercontent\.com$
