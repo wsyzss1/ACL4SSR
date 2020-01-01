@@ -23,7 +23,8 @@
 
 [proxy_all]
 # 默认代理
-
+(^|\.)ip-api\.com$
+(^|\.)ipip\.net$
 #**********************************************************************
 [bypass_list]
 # 直连列表
@@ -431,7 +432,6 @@
 (^|\.)ifengimg\.com$
 (^|\.)images-amazon\.com$
 (^|\.)infzm\.com$
-(^|\.)ipip\.net$
 (^|\.)it168\.com$
 (^|\.)ithome\.com$
 (^|\.)ixdzs\.com$
